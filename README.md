@@ -9,7 +9,7 @@
 - The properties of the box enclosing the detected objects can be modified under  ```Boxes and Labels```.
 
 ### Input and Output
-- The input is in the form of image/video/live web cam (attached).
+- The input is in the form of image/video/live web cam (attached in the ```data``` folder).
 - Output gives a modified version of the image/video where the detecteed objects are enclosed within rectangles along with their individual confidences.
 - For detection using live webcam, the code opens the webcam and performs real-time object detection.
 - Apart from this, the name of the object detected along with its range of x,y coordinates and confidence is printed to the output terminal.
