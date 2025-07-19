@@ -1,7 +1,7 @@
 # Object-Detection-using-Yolov5
 
 ### Overview
-- A pretrained Yolov5 model is implemented to detect objects witht their coordinates in images, videos and through web cameras.
+- A Yolov5 model is implemented to detect objects with their coordinates in images, videos and through web cameras.
 - Used it to detect landmines from images and videos.
 
 ### To run the code
